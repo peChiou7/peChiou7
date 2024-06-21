@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm Chizhou Peng
+- Let we enjoy the GitHub time
+- I'm currently learning Pattern Recognition, Computer Vision, ISAC Optimization, Image Processing and so on.
 <!--
 **peChiou7/peChiou7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
